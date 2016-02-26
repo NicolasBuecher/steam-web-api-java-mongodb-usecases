@@ -8,8 +8,14 @@ It has been developed with [IntelliJ IDEA](https://www.jetbrains.com/idea/) from
 
 THIS IS NOT FOR PROFESSIONAL PURPOSE, no optimisation, I'm learning how it works. Enjoy.
 
+## Usage
+
+My passwords and database have been removed of the program. You should put your information in "Database Connexion" part.
+You also need a Steam Web API Key to use the Steam Web API. You should put this one in "SteamWebAPI Connexion" part.
+
 ## Dependencies
 
+MongoDB Java Driver, Steam Web API and steam-web-api-java library require a lot of dependencies.
 Previous versions of the followings could work, but here is my configuration :
 
 - MongoDB Java Driver 3.2.1

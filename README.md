@@ -11,6 +11,7 @@ THIS IS NOT FOR PROFESSIONAL PURPOSE, no optimisation, I'm learning how it works
 ## Usage
 
 My passwords and database have been removed of the program. You should put your information in "Database Connexion" part.
+
 You also need a Steam Web API Key to use the Steam Web API. You should put this one in "SteamWebAPI Connexion" part.
 
 ## Dependencies
